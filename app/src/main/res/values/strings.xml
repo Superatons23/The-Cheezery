@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JavierBarreras_203706</string>
+    <string name="welcome_text">Welcome to The Cheezery!</string>
+    <string name="welcome_description">Home of the most wonderful desserts ever seen (and tested) by the human being.</string>
+    <string name="button_start">Get started!</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="e_mail">E-Mails</string>
+    <string name="password">Password</string>
+    <string name="terms">I have read and accept terms and conditions of the Cheezery</string>
+    <string name="sign_in">Sig in</string>
+    <string name="our_menu">OurMenu</string>
+    <string name="cold_drinks">Cold drinks</string>
+    <string name="sweets">Sweets</string>
+    <string name="salties">salties</string>
+    <string name="combos">Combos</string>
+    <string name="hot_drinks">Hot Drinks</string>
+    <string name="customizable">c</string>
+
+
+
+    <!-- fonts families -->
+    <string name="light">sans-serif-light</string>
+    <string name="condensed">sans-serif-condensed</string>
+    <string name="thin">sans-serif-thin</string>
+    <string name="medium">sans-serif-medium</string>
+    <string name="regular">sans-serif</string>
+</resources>
